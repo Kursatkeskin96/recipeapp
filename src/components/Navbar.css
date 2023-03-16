@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #272343;
+}
+
+.nav-link, .navbar-brand {
+    color: white;
+    font-family: 'Cormorant Upright', serif;
+}
+
+.nav-link:hover, .navbar-brand:hover{
+    color: #b1f3f0
+}
+
+.navbar-brand {
+    font-family: 'Cormorant Upright', serif;
+    font-style: italic;
+}
+
+.navbar-toggler-icon{
+    color: white;
+    background-color: white;
+}
+
+.navbar-toggler{
+    color: white;
+    background-color: white;
+}

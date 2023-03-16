@@ -1,0 +1,38 @@
+.spesific-card {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.spesific-card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    height: 4rem;
+}
+
+.spesific-card-title:hover {
+    text-decoration: none;
+}
+
+.spesific-card-img {
+    flex-grow: 1;
+    background-size: cover;
+    background-position: center;
+    max-height: 250px;
+    width: 300px;
+  }
+  
+
+.spesific-card:hover {
+ transform: scale(1.1);
+ transition: transform 0.2s ease-in-out;
+}
