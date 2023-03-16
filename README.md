@@ -1,3 +1,7 @@
+# Recipe App
+
+This is a web application that displays a list of recipes and their details. The app is built with React JS and uses Bootstrap for styling. The recipes are fetched from a JSON file that is included in the project. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
